@@ -1,2 +1,1 @@
-BertyE
-Berty
+BertyAI
